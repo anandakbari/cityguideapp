@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "556270026815",
+    "firebase_url": "https://cityguideapp-67252-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cityguideapp-67252",
+    "storage_bucket": "cityguideapp-67252.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556270026815:android:9a05c0ea0069a639ed788a",
+        "android_client_info": {
+          "package_name": "com.example.city_guide_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMFs6INYGXaLI_lYEbqDLGW5n-TeIbhYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
